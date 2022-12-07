@@ -27,6 +27,7 @@
 
 <br>
 <br>
+<br>
 
 ### Things I Do & love:
 - Html/Css <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
